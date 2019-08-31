@@ -1,4 +1,3 @@
-"""
 import tweepy
 import logging
 from config import create_api
