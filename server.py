@@ -40,4 +40,4 @@ while True:
             print(e.reason)
         except StopIteration:
             break
-    time.sleep(60)
+    time.sleep(20)
